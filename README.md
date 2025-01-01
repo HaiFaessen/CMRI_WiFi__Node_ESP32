@@ -5,6 +5,9 @@ Welcome to the Repository of H&HExpress Model 'N' Scale Trains
 
 This Repository Holds Basic Sketches for Arduinos and ESP32.
 
+This Sketch is to use a CMRI Node over Wifi using an ESP32 Development board
+
+
 The Sketches are as Is and are free to use and Modify.
 
 =======================================================================
